@@ -1,0 +1,9 @@
+{
+	"ip":"game2.falixserver.net",
+	"port": 10635,
+	"name": "Shivani48",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register DarkGen DarkGen",
+	"login-cmd":"/login DarkGen"
+}
