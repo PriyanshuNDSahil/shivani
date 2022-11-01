@@ -46,11 +46,11 @@ function task(i) {
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("I Am Shivani Please be my Friend")
+	bot.chat("")
 	first = false;
 	}
 	else{
-		bot.chat("I am Shivani Please be my Friend")
+		bot.chat("")
 		first = true;
 	}
   }, 3600000 * i); 
